@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Apex_Charts_React/static/css/main.67787b40.chunk.css",
+    "main.js": "/Apex_Charts_React/static/js/main.8f660c7a.chunk.js",
+    "main.js.map": "/Apex_Charts_React/static/js/main.8f660c7a.chunk.js.map",
+    "runtime-main.js": "/Apex_Charts_React/static/js/runtime-main.96d2e1d8.js",
+    "runtime-main.js.map": "/Apex_Charts_React/static/js/runtime-main.96d2e1d8.js.map",
+    "static/js/2.8a5f9150.chunk.js": "/Apex_Charts_React/static/js/2.8a5f9150.chunk.js",
+    "static/js/2.8a5f9150.chunk.js.map": "/Apex_Charts_React/static/js/2.8a5f9150.chunk.js.map",
+    "index.html": "/Apex_Charts_React/index.html",
+    "precache-manifest.b94ca8023494cf1504ffc17fabf46a28.js": "/Apex_Charts_React/precache-manifest.b94ca8023494cf1504ffc17fabf46a28.js",
+    "service-worker.js": "/Apex_Charts_React/service-worker.js",
+    "static/css/main.67787b40.chunk.css.map": "/Apex_Charts_React/static/css/main.67787b40.chunk.css.map",
+    "static/js/2.8a5f9150.chunk.js.LICENSE.txt": "/Apex_Charts_React/static/js/2.8a5f9150.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.96d2e1d8.js",
+    "static/js/2.8a5f9150.chunk.js",
+    "static/css/main.67787b40.chunk.css",
+    "static/js/main.8f660c7a.chunk.js"
+  ]
+}
